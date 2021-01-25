@@ -1,0 +1,51 @@
+h1 {
+    font-size: 80px;
+}
+h3 {
+    font-size: 60px
+}
+.title_text {  /* Titles font */
+    font-family: 'Lobster', cursive;
+}
+
+span {
+    color: red;
+}
+#header {
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 350px;
+    border-radius: 20px;
+}
+p {
+    margin-top: 3em;
+    font-size: 23px;
+    text-align: center;
+}
+li {
+    font-size: 23px;
+    line-height: 1.8;
+}
+#footer {
+    display: block;
+    font-size: 23px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#link_wiki_page {
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+}
+
+a :hover{
+    color: white;
+}
